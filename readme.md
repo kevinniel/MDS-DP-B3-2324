@@ -29,8 +29,8 @@
 
 ## Rendu
 
-PDF propre, formalisé, etc...
-Plan du PDF : 
+PDF ou depot GIT MarkDown propre, formalisé, etc...
+Plan du PDF/MD : 
 1. présentation DP => définition + formalisme (objectif : tous le même formalisme pour la suite du document)
 2. présentation du Gang of Four (GoF) => historique
 3. Explication et classification des différents design patterns

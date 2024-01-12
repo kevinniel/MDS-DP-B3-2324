@@ -33,11 +33,11 @@ PDF ou depot GIT MarkDown propre, formalisé, etc...
 Plan du PDF/MD : 
 1. présentation DP => définition + formalisme (objectif : tous le même formalisme pour la suite du document)
 2. présentation du Gang of Four (GoF) => historique
-3. Explication et classification des différents design patterns
+3. Explication de la classification des différents design patterns
 4. Organiser les DP par type de DP. Pour chacun : 
   1. Expliquer et présenter le design pattern de manière globale d'abord (conceptuellement parlant, théoriquement parlant).
   2. Expliquer les avantages et inconvénients du DP en question
-  3. Réaliser une représentatio UML du DP
+  3. Réaliser une représentation UML du DP
   4. Dans la foulée présenter une implémentation du design pattern dans le langage de votre groupe si possible.
 
 ## Contraintes

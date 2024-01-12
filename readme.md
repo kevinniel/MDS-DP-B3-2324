@@ -37,7 +37,8 @@ Plan du PDF/MD :
 4. Organiser les DP par type de DP. Pour chacun : 
   1. Expliquer et présenter le design pattern de manière globale d'abord (conceptuellement parlant, théoriquement parlant).
   2. Expliquer les avantages et inconvénients du DP en question
-  3. Dans la foulée présenter une implémentation du design pattern dans le langage de votre groupe si possible.
+  3. Réaliser une représentatio UML du DP
+  4. Dans la foulée présenter une implémentation du design pattern dans le langage de votre groupe si possible.
 
 ## Contraintes
 
